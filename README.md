@@ -14,3 +14,5 @@ See screenshots below:
 We also created a repo on github with the same name. The repo is equivalent to the directory in my local machine, so when I make changes on my local machine (like now) I can later push them to github, and if I make changes to github I can pull them on my local machine. 
 
 
+PUI2017_bb1569/HW1_bb1569
+HW_bb1569
