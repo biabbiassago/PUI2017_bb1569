@@ -5,9 +5,9 @@ Create an export path that links to my directory **PUI2017_bb1569**. Save this p
 
 See screenshots below:
 
-\includegraphics[]{screenshots/bb1569_bash.png}
+![image of bash](https://github.com/biabbiassago/PUI2017_bb1569/blob/master/screenshots/bb1569_bash.png)
 
-\includegraphics[]{screenshots/bb1569_setup_env.png}
+![image of env](https://github.com/biabbiassago/PUI2017_bb1569/blob/master/screenshots/bb1569_setup_env.png)
 
 
 
