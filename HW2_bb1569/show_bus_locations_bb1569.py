@@ -1,6 +1,7 @@
 from __future__ import print_function
 import pylab as pl
 import json
+import numpy as np
 import urllib.request as urllib
 import os
 import sys
@@ -27,7 +28,7 @@ datamta=json.loads(datamta)
 
 
 vehicleact=datamta["Siri"]["ServiceDelivery"]["VehicleMonitoringDelivery"][0]["VehicleActivity"]
-busnum=len(vehicleact)
+busnum=np.size(vehicleact)
 #print(busnum)
 #print(type(busnum))
 
