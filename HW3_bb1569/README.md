@@ -14,4 +14,5 @@ Bianca provided editing, in particular in formulation of Null/Alternative hypoth
 
 
 ## Assignment 3 
-Michael completed this part of the assignment. 
+Michael formulated Null and Alternative Hypothesis. <br>
+Michael and Bianca worked on calculating Z statistics and provide conclusion.
