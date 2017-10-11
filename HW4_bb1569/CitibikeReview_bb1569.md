@@ -26,8 +26,9 @@ Equation for this experiment
 T=\frac{mean(menDuration)-mean(womeanDuration)}{\sqrt{\frac{sd^2(menDuration)}{N_{men}}+ \frac{sd^2(womenDuration)}{N_{women}}}}
 
 ```
+Click here for more readable form:
 
-
+![ttest](https://github.com/biabbiassago/PUI2017_bb1569/blob/master/HW4_bb1569/ttest.pdf)
 
 
 Where N_men and N_women is respectively the number of men and women in the sample
