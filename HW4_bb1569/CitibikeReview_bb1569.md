@@ -23,7 +23,7 @@ T= \frac{\bar{Y_1}-\bar{Y_2}}{\sqrt{\frac{sd^2_1}{N_1}+ \frac{sd^2_2}{N_2}}}
 Equation for this experiment
 
 ```{latex}
-	 T=\frac{mean(menDuration)-mean(womeanDuration)}{\sqrt{\frac{sd^2(menDuration)}{N_{men})}+ \frac{sd^2(womenDuration)}{N_{women})}}}
+T=\frac{mean(menDuration)-mean(womeanDuration)}{\sqrt{\frac{sd^2(menDuration)}{N_{men})}+ \frac{sd^2(womenDuration)}{N_{women})}}}
 
 ```
 
