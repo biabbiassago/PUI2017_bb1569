@@ -13,11 +13,24 @@ We can use a t-test for sample means -- unpaired samples, where we assume unequa
 
 Before conducting the test we would want to check that our data is approximately normally distributed (for length of durations). 
 
-$$
-	 T=\frac{mean(menDuration)-mean(womeanDuration)}{sqrt{\frac{sd^2(menDuration)}{N_{men})}+ \frac{sd^2(womenDuration)}{N_{women})}}}
-$$
 
-Where $ N_men $ and $ N_women $ is respectively the number of men and women in the sample
+Equation in it general form:
+
+```{latex}
+T= \frac{\bar{Y_1}-\bar{Y_2}}{\sqrt{\frac{sd^2_1}{N_1}+ \frac{sd^2_2}{N_2}}}
+```
+
+Equation for this experiment
+
+```{latex}
+	 T=\frac{mean(menDuration)-mean(womeanDuration)}{\sqrt{\frac{sd^2(menDuration)}{N_{men})}+ \frac{sd^2(womenDuration)}{N_{women})}}}
+
+```
+
+
+
+
+Where N_men and N_women is respectively the number of men and women in the sample
 
 * Note that when we are calculating the t-value we are considering the sample means and std deviations.  When we formualte the null and alternative hypothesis we are asking questions about the population means. 
 
@@ -31,14 +44,14 @@ Where $ N_men $ and $ N_women $ is respectively the number of men and women in t
 * When you state question, null and alternative hyppthesis, you should also include the significance level. E.g., $\alpha=0.05$
 
 * Formulation of Alternative Hypothesis should include that you are comparing average ride lengths, i.e. 
-__$H_A$__: Men's average ride duration is different from women's average ride difference. 
+__H_A__: Men's average ride duration is different from women's average ride difference. 
 
 * In the mathematical formulation of the Null and Alternative hypothesis, to be more specific you could include the fact that you are considering the mean. For example:
-__$H_0$__ =  *pop.mean(menDuration)=pop.mean(womenDuration)*
-__$H_A$__ = *pop.mean(menDuration) < pop.mean(womenDuration) || pop.mean(menDuration)>pop.mean(womenDuration)*
+__H_0__ =  *pop.mean(menDuration)=pop.mean(womenDuration)*
+__H_A__ = *pop.mean(menDuration) < pop.mean(womenDuration) || pop.mean(menDuration)>pop.mean(womenDuration)*
 Since you are just looking at difference you could also write *pop.mean(menDuration) ? pop.mean(womenDuration)*
     
 
 * You could make your question investigate a more precise, and thus maybe more interesting idea. For example, check if the average length of women's ride is shorter than the men's average ride. By doing so you could have not just info about whether they are different but also on whether beign a female is correlated with taking shorter rides. In this case you would have: 
-__$H_0$__ = *pop.mean(menDuration)=pop.mean(womenDuration) || pop.mean(menDuration)<pop.mean(womenDuration)*
-__$H_A$__ = *pop.mean(menDuration)>pop.mean(womenDuration)*
+__H_0__ = *pop.mean(menDuration)=pop.mean(womenDuration) || pop.mean(menDuration)<pop.mean(womenDuration)*
+__H_A__ = *pop.mean(menDuration)>pop.mean(womenDuration)*
