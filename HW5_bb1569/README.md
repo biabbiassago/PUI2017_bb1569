@@ -1,6 +1,6 @@
 # README HW5_bb1569
 
-*Team Composition** : Michael Sampson, Gokmen and Bianca Brusco 
+*Team Composition* : Michael Sampson, Gokmen Dedemen and Bianca Brusco 
 
 
 ### Assignment 1
