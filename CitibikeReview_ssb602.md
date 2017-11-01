@@ -18,9 +18,10 @@ Test Suggested: z-test
 Refering to the chart of tests by type of question, since the hypothesis aims to see whether data comes from 
 different or same populations. This can be said since the hypothesis is based on ratio of two populations.
 
-FBB samples, not populations
+# FBB samples, not populations
 With reference to an online source(https://explorable.com/z-test), z-test is used for for difference of proportions
 is used to test the hypothesis that two populations have the same proportion. This is exactly what the hypothesis
 here is doing.
 
-FBB ok
+# FBB THIS FILE SHOULD HAVE HAD YOUR NETID ssb603, not your classmate's since it hends on her repo anyways!
+# FBB ok
