@@ -1,6 +1,6 @@
 # PUI2017 HW7 
 
-## Assignment 1 : Finish Citibike miniroject
+## Assignment 1 : Finish Citibike mini-project
 
 Link to Authorea article https://www.authorea.com/210296/dEZK-KMGYs-LtOOJ-dmepA.
 The article is also in this repository, but cannot be opened via github because it is too large. 
