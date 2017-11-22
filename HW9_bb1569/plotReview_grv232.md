@@ -1,8 +1,10 @@
 # Plot Review for grv232
 
+This plot examines how AIDS has quickly spread in population of New York City in the early 1990s, and gives interesting insight on how it affected different groups of the New York City  population.
+
+
 ![image of env](https://github.com/biabbiassago/PUI2017_bb1569/blob/master/HW9_bb1569/aids.png)
 
-This plot examines how AIDS has quickly spread in population of New York City in the early 1990s, and gives interesting insight on how it affected different groups of the New York City  population.
 
 __CLARITY__: 
 
