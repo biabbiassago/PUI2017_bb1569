@@ -1,16 +1,16 @@
 ## Plot Review for mjs639
 
+I found this plot interesting, as it gives an initial glance at a topic that can be analyzed in more depth : how SAT scores vary depending on neighborhood's socio-economic characterstics. 
 
 
 
-
-
+![image of env](https://github.com/biabbiassago/PUI2017_bb1569/blob/master/HW9_bb1569/satmap.png)
 
 
 Link to interactive map:  https://mjs639.carto.com/builder/10f6d682-fad1-4050-87ea-703f4120f7a9/embed
 
 
-I found this plot interesting, as it gives an initial glance at a topic that can be analyzed in more depth : how SAT scores vary depending on neighborhood's socio-economic characterstics. 
+
 
 __CLARITY__:  
 
