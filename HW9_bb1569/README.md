@@ -12,4 +12,5 @@ _Team Composition_ : Michael M Sampson (mms911), Gokmen Dedemen (gokmen), Bianca
 In this assignment we get Census data to see the percentage of households with broadband access, and the geographic distribution of the linkNYC around the city.
 I completed most of this assignment, asked questions to the team about how to download the AFF tables, and reviewed the code with Michael. 
 
+We used the function written by Professor Bianca (choropleth.py) for some of the plots. 
 
