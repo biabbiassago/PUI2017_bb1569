@@ -23,11 +23,18 @@ The choice of color makes it a bit hard to interpret the map. In particular, for
 
 I think that using a gradient rather than bins colors makes it a bit harder to differentiate between levels of SAT score.You could choose to cut off points (for example at percentiles) in different-color bins.
 
+# FBB A diverging color map (https://matplotlib.org/examples/color/colormaps_reference.html) - for example RdBu - would be appropriate here, with point of divergence the average score. This way the above average and below average SAT scores are encoded with different colors providing an additional piece of info at a glance, and provide more color resolution on either sides of the average
 
 __HONESTY__:   
 
 All the dots are the same size which is a good choice, since it is does not give more importance to higher or lower scores. 
 
+# FBB an additional dimension: number of students could be encoded as point size
+
 However, as I mentioned before, having a light color that is hard to see makes it seem like the average score is higher than in reality, and this impacts the honesty of the plot. 
 
 A last suggestion would be to think of a way to deal with overlapping dots, perhaps changing the alpha-levels for some bins. In this plot, the darker dots show a lot more so when dots are overlapping it is hard to see the lower-score schools. 
+
+# FBB a problem with carto is that when uploading the link on a browser the zoom in level can crop regions, depending on the size of the browser window. This is an issue because outer borroughs (Bx, SI) are likely to get cut out
+
+# FBB 10/10
