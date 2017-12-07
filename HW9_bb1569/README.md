@@ -13,4 +13,3 @@ In this assignment we get Census data to see the percentage of households with b
 I completed most of this assignment, asked questions to the team about how to download the AFF tables, and reviewed the code with Michael. 
 
 We used the function written by Professor Bianco (choropleth.py) for some of the plots. 
-
